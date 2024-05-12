@@ -1,6 +1,4 @@
-Forkify is a recipe search engine built with vanilla JavaScript and Pug templates. It allows users to search for over 10,
-
-000 recipes from an external API. This project served as a significant learning experience, particularly in utilizing asynchronous JavaScript behavior through promises.
+Forkify is a recipe search engine built with vanilla JavaScript and Pug templates. It allows users to search for over 10,000 recipes from an external API. This project served as a significant learning experience, particularly in utilizing asynchronous JavaScript behavior through promises.
 
 https://forkify-v2-ovi.netlify.app/
 
